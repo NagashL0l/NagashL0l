@@ -43,11 +43,6 @@
 <br/>
 <br/>
 
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NagashL0l&label=Views&color=blue&style=plastic" alt="juan visits" /> </p>
-
-<br/>
 <div align="center">
 
 ### Feel free to text me 😎
