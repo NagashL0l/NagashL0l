@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently working on my Degree Final Project and other personal projects.
-- 🌱 I’m currently learning more about [Rust](https://www.rust-lang.org/) 🦀, microkernels and low-level security 🕴️
+- 🌱 I’m currently learning more about [Rust](https://www.rust-lang.org/) 🦀, forensic computer and digital analysis, and low-level security 🕴️
 - 💬 Ask me about nothing, please 🙏 (just kidding).
 - 📫 How to reach me: [Instagram - @juan_alerta](https://www.instagram.com/juan_alerta/)
 - 😄 Pronouns: He/Him
