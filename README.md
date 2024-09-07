@@ -21,6 +21,6 @@ As a Level 2 Cybersecurity Analyst in a SOC, I have spent the last two years hon
 
 <div align="center">
 
-### Feel free to text me 😎
+### Feel free to text me 🧙
 
 </div>
