@@ -4,11 +4,11 @@ As a Level 2 Cybersecurity Analyst in a SOC, I have spent the last two years hon
 
 ### More about me:
   
-🐧 I'm a passionate home Linux user, actively involved in the community. 
+🐧 I'm a passionate home **Linux** user, actively involved in the community. 
 
-🌱 I'm currently learning about malware development, reverse engineering and vulnerability assessment.  
+🌱 I'm currently learning about **malware development**, **reverse engineering** and **vulnerability assessment**.  
 
-🛠️ At this moment I'm developing scripts in Bash and Python to analyze threads/IOCs and coding malware with Rust 🦀.  
+🛠️ At this moment I'm developing scripts in **Bash** and **Python** to analyze threads/IOCs and coding malware with **Rust 🦀**.  
 
 🧙 Fun fact: Comics and music are my passion, you can question me about it!
 
