@@ -1,47 +1,23 @@
-## Hola, I'm [Juan](https://i.kym-cdn.com/photos/images/original/000/948/771/d75.gif), nice to meet you 👽 
-### Sorry, i have many nicknames:
-<a href="https://twitter.com/JuanBleachVip">
-  <img align="left" alt="Personal Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/juan_alerta/">
-  <img align="left" alt="Personal Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Juan, nice to meet you
 
-<a href="https://www.reddit.com/user/nagashL0l">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+As a Level 2 Cybersecurity Analyst in a SOC, I have spent the last two years honing my skills in threat detection, incident response, and digital forensics. My work has involved leveraging advanced security tools and techniques to protect sensitive information.  
 
-<br/>
-<br/>
+### More about me:
+  
+🐧 I'm a passionate home Linux user, actively involved in the community. 
+
+🌱 I'm currently learning about malware development, reverse engineering and vulnerability assessment.  
+
+🛠️ At this moment I'm developing scripts in Bash and Python to analyze threads/IOCs and coding malware with Rust 🦀.  
+
+🧙 Fun fact: Comics and music are my passion, you can question me about it!
+
+### Top Skills:
+![Bash](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=zsh&logoColor=%2361DAFB)![C](https://img.shields.io/badge/c/c++-black?style=for-the-badge&logo=c#.js&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23E0234E.svg?style=for-the-badge&logo=rust&logoColor=white)![Android](https://img.shields.io/badge/android-6DA55F?style=for-the-badge&logo=android&logoColor=white)![Linux](https://img.shields.io/badge/linux-hotpink.svg?style=for-the-badge&logo=linux&logoColor=white)![Elastic](https://img.shields.io/badge/Elastic-4EA94B.svg?style=for-the-badge&logo=elastic&logoColor=white)![Dart](https://img.shields.io/badge/Dart-3982CE?style=for-the-badge&logo=Dart&logoColor=white)
 
 
-- 🔭 I’m currently working on my Degree Final Project and other personal projects.
-- 🌱 I’m currently learning more about [Rust](https://www.rust-lang.org/) 🦀, forensic computer and digital analysis, and low-level security 🕴️
-- 💬 Ask me about nothing, please 🙏 (just kidding).
-- 📫 How to reach me: [Instagram - @juan_alerta](https://www.instagram.com/juan_alerta/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Comics and music are my passion, you can question me about it 😄
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanAlerta&layout=compact&theme=dark&hide_border=true)
 
-<br/>
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<a href="https://github.com/NagashL0l">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanAlerta&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/NagashL0l">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanAlerta&show_icons=true&theme=light&line_height=27" alt="Juan's github stats"/>
-</a>
-
-<br/>
-<br/>
 
 <div align="center">
 
